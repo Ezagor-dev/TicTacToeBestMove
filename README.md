@@ -1,3 +1,3 @@
 # TicTacToeBestMove
 
-With AI
+With A.I.
