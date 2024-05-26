@@ -1,3 +1,3 @@
 # TicTacToeBestMove
 
-With A.I.
+With %80 undefeated A.I.
